@@ -1,7 +1,6 @@
 [Adblock Plus 2.0]
-! title: xinggsf v20150728 for chrome
-! 精简xwhyc +自用 整合
-! 反馈：http://bbs.theworld.cn/thread-231668-1-1.html
+! title: luantu ADblock rules
+! 源于网络，自用
 @@|http://$stylesheet
 @@|http://$domain=taobao.com|alipay.com|suning.com|www.vmall.com|etao.com|tmall.com|paipai.com|jd.com|i.qq.com
 !-----------------------屏蔽第三方资源---------------------------
@@ -10,7 +9,7 @@
 !----------------NoScript,屏蔽指定域名的脚本---------------------
 |http://$script,domain=ty2016.com|eywedu.com|365essay.com|xsbashi.com|zdfans.com|hrtsea.com|btkitty.me
 !------flashBlock,已注释,要恢复删除叹号。免过滤白名单如下--------
-!|http://*.swf^$domain=~youku.com|~tudou.com|~iqiyi.com|~pps.tv|~yatu.tv|~baidu.com|~bilibili.com|~1905.com|~acfun.tv|~fun.tv|~dj92cc.com|~qq.com|~163.com|~cntv.cn|~ku6.com|~56.com|~letv.com|~jiaosm.net|~nba.com|~apkbus.com|~51zxw.net|~tv.sohu.com|~bbs.theworld.cn|~dy1000.com
+|http://*.swf^$domain=~youku.com|~tudou.com|~iqiyi.com|~pps.tv|~yatu.tv|~baidu.com|~bilibili.com|~1905.com|~acfun.tv|~fun.tv|~dj92cc.com|~qq.com|~163.com|~cntv.cn|~ku6.com|~56.com|~letv.com|~jiaosm.net|~nba.com|~apkbus.com|~51zxw.net|~tv.sohu.com|~bbs.theworld.cn|~dy1000.com
 !--------------------------百度----------------------------------
 ||baidustatic.com^$third-party
 @@||eiv.baidu.com/fcimg
