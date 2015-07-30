@@ -1,2 +1,2 @@
 # ADblock-rules
-personnel use
+个人自用的Adblock规则
